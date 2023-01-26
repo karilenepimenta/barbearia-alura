@@ -10,7 +10,7 @@ body {
 .centralizar {
 	display: flex;
 	width: 100%;
-	max-width: 640px;
+	max-width: 940px;
 	flex-direction: row;
 	justify-content: center;
 	align-items: center;
